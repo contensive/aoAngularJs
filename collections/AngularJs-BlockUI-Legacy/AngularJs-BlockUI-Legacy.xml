@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<Collection name="AngularJs-BlockUI-Legacy" guid="{2EC7F8C9-8F72-437E-A0E3-DFFAD045A5C7}" system="No" updatable="Yes" blockNavigatorNode="No">
+	<ImportCollection name="AngularJs-Others">{ae3bdbfa-a187-461a-9847-d3397e892400}</ImportCollection>
+</Collection>
