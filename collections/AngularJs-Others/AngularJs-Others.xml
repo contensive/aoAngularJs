@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<Collection name="AngularJs-Others" guid="{ae3bdbfa-a187-461a-9847-d3397e892400}" system="No" updatable="Yes" blockNavigatorNode="No">
+<Collection name="AngularJs-Others" guid="{ae3bdbfa-a187-461a-9847-d3397e892400}" system="No" updatable="Yes" blockNavigatorNode="yes">
 	<HelpLink></HelpLink>
 	<Help></Help>
 	<Addon name="AngularJs ui Grid" guid="{F0A34909-80B3-4333-9957-4C217B02A427}" type="Add-on">

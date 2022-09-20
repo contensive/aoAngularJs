@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="windows-1252"?>
-<Collection name="AngularJs" guid="{79FB201D-11F0-4BDB-9EBE-B200092FA4FF}" system="No" updatable="Yes" blockNavigatorNode="No">
+<Collection name="AngularJs" guid="{79FB201D-11F0-4BDB-9EBE-B200092FA4FF}" system="No" updatable="Yes" blockNavigatorNode="yes">
 	<HelpLink></HelpLink>
 	<Help></Help>
 	<Addon name="angular-animate" guid="{8ddc9680-a9a6-4326-a363-a79a387281b8}" type="Add-on">
